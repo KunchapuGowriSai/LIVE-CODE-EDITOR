@@ -26,54 +26,9 @@ This project is a simple live code editor that allows you to write and run HTML,
 4. Write JavaScript code in the JavaScript section.
 5. The output will be displayed in the right section in real-time.
 
-## Example
-
-Here's a basic example of how to use the live code editor:
-
-1. In the HTML section, you might add:
-
-    ```html
-    <button onclick="run(this)">Click Me</button>
-    ```
-
-2. In the CSS section, you might add:
-
-    ```css
-    button {
-        background: red;
-        color: white;
-        padding: 10px 25px;
-        font-size: 18px;
-        border-radius: 5px;
-        border: none;
-    }
-    ```
-
-3. In the JavaScript section, you might add:
-
-    ```javascript
-    function run(x) {
-        x.style.background = "black";
-    }
-    ```
-
-## Contributing
-
-Contributions are welcome! Please fork the repository and create a pull request with your changes. Make sure to follow the existing code style and include relevant tests.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
-If you have any questions or suggestions, please feel free to reach out to me at [your-email@example.com](mailto:your-email@example.com).
+If you have any questions or suggestions, please feel free to reach out to me at [kunchapugowrisai143@gmail.com](mailto:kunchapugowrisai143@gmail.com).
 
 ---
 
